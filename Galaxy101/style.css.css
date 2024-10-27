@@ -1,0 +1,26 @@
+.middle{
+    position: absolute;
+    right: 30%;
+    
+}
+hr {
+    color: blue;
+}
+body {
+    background-color: rgb(139, 67, 18);
+}
+.thekiss {
+    position: relative;
+    width: 50%;
+}
+.me2 {
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px;
+    font-style: italic;
+}
+.touch {
+    width: 45%;
+}
